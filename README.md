@@ -1,6 +1,9 @@
+
 # :sparkles: About Me:
 • Atualmente trabalhando como Analista de Testes
+<br>
 • Cursando Sistemas de Informação
+<br>
 • Sempre buscando conhecimento
 
 # 🌐 Socials:
