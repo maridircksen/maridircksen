@@ -1,6 +1,6 @@
 
 # :sparkles: About Me:
-• Atualmente trabalhando como Analista de Testes
+• Atualmente trabalhando como Analista de Qualidade
 <br>
 • Cursando Sistemas de Informação
 <br>
